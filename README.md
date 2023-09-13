@@ -2,7 +2,7 @@
 
 ![2Trip](https://i.ibb.co/Zd4L78c/image.png)
 
-O 2Trip é um projeto acadêmico desenvolvido como parte da disciplina "Projeto Multidisciplinar Integrador 1". O objetivo principal do projeto é fornecer aos usuários os melhores roteiros turísticos, oferecendo informações detalhadas sobre destinos populares ao redor do mundo.
+O 2Trip é um projeto acadêmico desenvolvido como parte da disciplina "Projeto Multidisciplinar Integrador 3". O objetivo principal do projeto é fornecer aos usuários os melhores roteiros turísticos, oferecendo informações detalhadas sobre destinos populares ao redor do mundo.
 
 ## Problema 🙁
 
